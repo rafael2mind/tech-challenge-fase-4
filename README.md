@@ -1,7 +1,6 @@
 # Tech Challenge - FIAP: IA para Devs (Fase 4)
 
 ### Grupo 38
-- Pedro Vianna Silveira
 - Rafael Silva Souza
 - Rodrigo de Freitas Ornellas
 
@@ -16,7 +15,7 @@ https://github.com/rafael2mind/tech-challenge-fase-4
 
 
 ### 🔗 Vídeo de apresentação
-https://youtu.be/
+https://youtu.be/3iO-xPl9UFk  
 
 ---
 
@@ -47,6 +46,4 @@ Este documento está organizado da seguinte forma:
 3. **Fundamentação Teórica**: Fornece uma visão geral das técnicas de visão computacional aplicadas, incluindo reconhecimento facial, análise de expressões emocionais e detecção de atividades.
 4. **Metodologia**: Descreve o processo de análise de vídeo, incluindo pré-processamento, detecção facial, análise emocional e categorização de atividades.
 5. **Implementação**: Detalha as ferramentas e bibliotecas utilizadas, bem como a estrutura do código e as etapas de desenvolvimento.
-6. **Testes e Resultados**: Apresenta a configuração dos experimentos, os resultados obtidos e uma análise de desempenho das funcionalidades implementadas.
-7. **Discussão**: Interpreta os resultados, discute os desafios enfrentados e sugere melhorias futuras.
-8. **Conclusão**: Resume os achados do projeto, apresenta as conclusões principais e aponta possíveis extensões para trabalhos futuros.
+6. **Conclusão**: Resume os achados do projeto, apresenta as conclusões principais e aponta possíveis extensões para trabalhos futuros.
